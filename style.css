@@ -20,7 +20,7 @@ body {
 
 .blue-background {
     background-color: rgba(56, 53, 195, 1);
-    background-image: url(/images/background.jpg);
+    background-image: url(/MyResume/images/background.jpg);
     background-size: cover;
     background-blend-mode: luminosity;
     height: 300px;
@@ -156,13 +156,13 @@ h3, p {
 }
 
 .contacts-email::before {
-    content: url(/images/mail_icon.svg); 
+    content: url(/MyResume/images/mail_icon.svg); 
 }
 
 .contacts-telegram::before {
-    content: url(/images/telegram_icon.svg);
+    content: url(/MyResume/images/telegram_icon.svg);
 }
 
 .contacts-phone::before {
-    content: url(/images/phone_icon.svg); 
+    content: url(/MyResume/images/phone_icon.svg); 
 }
